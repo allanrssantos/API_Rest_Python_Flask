@@ -7,4 +7,4 @@
 
 ## Instalando as dependências do projeto.
 
-- Execute o comando: pip intall -r requirements.txt
+- Execute o comando: `pip intall -r requirements.txt`.
